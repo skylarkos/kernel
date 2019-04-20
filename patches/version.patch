@@ -1,0 +1,9 @@
+diff -rupN a/debian.master/changelog b/debian.master/changelog
+--- a/debian.master/changelog	2019-04-20 09:35:33.248561000 +0100
++++ b/debian.master/changelog	2019-04-20 09:41:51.271085457 +0100
+@@ -1,4 +1,4 @@
+-linux (5.0.0-13.14) disco; urgency=medium
++linux (5.0.0-13.14+skylarkos) disco; urgency=medium
+ 
+   * linux: 5.0.0-13.14 -proposed tracker (LP: #1824819)
+ 
