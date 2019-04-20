@@ -1,0 +1,3 @@
+[submodule "ubuntu-kernel"]
+	path = ubuntu-kernel
+	url = git://kernel.ubuntu.com/ubuntu/ubuntu-disco.git
